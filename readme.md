@@ -17,7 +17,7 @@ so I cannot outsource designing and I kind of like designing UI as well.
 #### First lookup
 I spent much time thinking about how I should design the first impression flow of my app. Firstly, you have to create a landing page, and also you have to design the next flow. I did spend some time designing the initial flow of the consumer app. It all starts with a splash screen asking the user to select his/her preferred language and ends at the landing page.
 
-<img src="assets/consumer_app_initial_flow.svg">
+<img src="assets/consumer_app_initial_flow.png">
 
 #### Consumer App Login flow design (Mobile OTP)
 
