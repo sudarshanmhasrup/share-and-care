@@ -14,7 +14,7 @@ Once you have the idea in your mind start designing the UI for it, and also I co
 Although I'm not a professional UI/UX Designer but still I start with designing. And also this is not a paid project, 
 so I cannot outsource designing and I kind of like designing UI as well.
 
-#### First lookup
+#### Initial flow design
 I spent much time thinking about how I should design the first impression flow of my app. Firstly, you have to create a landing page, and also you have to design the next flow. I did spend some time designing the initial flow of the consumer app. It all starts with a splash screen asking the user to select his/her preferred language and ends at the landing page.
 
 <img src="assets/consumer_app_initial_flow.svg">
