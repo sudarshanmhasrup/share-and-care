@@ -20,7 +20,9 @@ landing page, and also you have to design the next flow. I did spend some time d
 consumer app. It all starts with a splash screen asking the user to select his/her preferred language and ends at the 
 landing page.
 
-<img src="assets/consumer_app_initial_flow.png">
+<img src="assets/consumer_app_initial_flow.png" alt="Initial login flow">
+
+Now I'm ready and fully motivated to start designing the login flow.
 
 #### Consumer App Login flow design (Mobile OTP)
 
